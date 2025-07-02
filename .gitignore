@@ -1,0 +1,10 @@
+# Python environment
+venv/
+__pycache__/
+
+# Secrets
+.env
+credentials.json
+
+# VS Code configs (optional)
+.vscode/

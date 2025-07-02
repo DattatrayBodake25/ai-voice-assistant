@@ -95,16 +95,13 @@ Assistant replies:
 
 Interaction logged → logger.py appends to Google Sheet with timestamp
 
-## 🖼️ UI Preview
-<img src="https://via.placeholder.com/700x400.png?text=Streamlit+UI+Placeholder" alt="UI Screenshot" />
-
-
 ## ☁️ Deployment Options
-Run locally with Streamlit
 
-Package as .exe with pyinstaller
+- Run locally with Streamlit
 
-Deploy to a server using Streamlit Sharing or Render
+- Package as .exe with pyinstaller
+
+- Deploy to a server using Streamlit Sharing or Render
 
 ⚠️ Security & Git Tips
 ✅ .env and credentials.json are excluded via .gitignore
@@ -112,7 +109,8 @@ Deploy to a server using Streamlit Sharing or Render
 ✅ Use environment variables and python-dotenv to load them safely
 
 
-💡 Future Ideas
+## 💡 Future Ideas
+
 🔄 Continuous listening mode
 
 🧠 Support for multiple AI models

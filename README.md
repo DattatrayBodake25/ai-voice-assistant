@@ -4,6 +4,9 @@ This project is a **voice-enabled AI assistant** built with Python and Streamlit
 
 ---
 
+## Demo Video:
+https://drive.google.com/file/d/1BzyZ6GE8lPNhAxDGqTcGItmukj6efinH/view?usp=sharing
+
 ## 🚀 Features
 
 ✅ Voice input using your microphone  
